@@ -45,10 +45,3 @@ It combines **embedded systems**, **sensor fusion**, and **motion control** to a
 - Path planning & automation logic  
 
 ---
-
-## 🔧 Setup Instructions
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/mopping-robot.git
-   cd mopping-robot
